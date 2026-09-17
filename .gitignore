@@ -1,0 +1,18 @@
+# IDE 配置（GoLand / VSCode 自动生成，不该进版本库）
+.idea/
+.vscode/
+
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-weather-cli
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志
+*.log
